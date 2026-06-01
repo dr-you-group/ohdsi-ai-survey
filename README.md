@@ -1,6 +1,7 @@
 # ohdsi-ai-survey
 A pre-registered, cross-sectional survey of the OHDSI community examining (1) how the community positions itself on data standardization under foundation-model pressure, and (2) how it perceives OHDSI infrastructure's capacity to mitigate known medical-AI failure modes.
 
+Joint the survey! → [https://docs.google.com/forms/d/e/1FAIpQLSffujd8hZDtpTIoDb3RkFOn3_FsPzMtSdxYwZDFSGWqiigvZQ/viewform?usp=header] 
 
 > **Status:** Pre-data-collection. This repository contains the study
 > protocol, instrument, and analysis plan. No data have been collected yet.
