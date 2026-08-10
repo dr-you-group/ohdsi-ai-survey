@@ -15,7 +15,7 @@ Join the survey! → [https://docs.google.com/forms/d/e/1FAIpQLSffujd8hZDtpTIoDb
 | **Study type** | Cross-sectional online survey (pre-registered) |
 | **Primary question** | Does data standardization still matter in the era of foundation models? How does the OHDSI community position itself — and where is it internally divided? |
 | **Secondary question** | Across four medical-AI failure modes within OHDSI's structural scope, which does the community perceive its infrastructure as best positioned to mitigate? |
-| **Target sample** | N = 300 (minimum analyzable N = 200) |
+| **Target sample** | N = 200 (minimum analyzable N = 200) |
 | **Population** | Active or recent OHDSI community members |
 | **Status** | Protocol & instrument finalized; recruitment not yet started |
 | **Pre-registration** | OSF — [link TBD] |
